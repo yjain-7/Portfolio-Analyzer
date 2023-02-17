@@ -7,6 +7,8 @@ Portfolio analyzer is a visual stock portfolio analyzer. It helps portfolio mana
 ## 👀 Screenshot
 <img src = "https://user-images.githubusercontent.com/76871563/219571901-fd64ee9e-12db-44ee-84fa-7ecb84277c4f.png" width = "400" height = "500">
 
+**Skills Used -** Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.
+
 * Implemented the core logic of the portfolio manager and published it as a library.
 * Refactored code to add support for multiple stock quote services.
 * Improved application stability and performance.
