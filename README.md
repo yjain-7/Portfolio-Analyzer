@@ -1,6 +1,7 @@
 <!-- ![3476081](https://user-images.githubusercontent.com/76871563/219578109-847dd10a-38b0-45b5-a4b0-2609b6b70bbd.jpg) -->
 <p align = "center">
- <img = "https://user-images.githubusercontent.com/76871563/219578109-847dd10a-38b0-45b5-a4b0-2609b6b70bbd.jpg">
+<img = "https://user-images.githubusercontent.com/76871563/219578109-847dd10a-38b0-45b5-a4b0-2609b6b70bbd.jpg">
+
 # 📌 Portfolio-Analyzer
 Portfolio analyzer is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients
 
